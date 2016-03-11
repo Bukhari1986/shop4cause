@@ -1,4 +1,4 @@
-# Meanshop [![Build Status](https://travis-ci.org/wakqasahmed/meanshop.svg?branch=master)](https://travis-ci.org/wakqasahmed/shop4cause)
+# Meanshop [![Build Status](https://travis-ci.org/wakqasahmed/shop4cause.svg?branch=master)](https://travis-ci.org/wakqasahmed/shop4cause)
 
 E-commerce Application built with the MEAN stack
 
